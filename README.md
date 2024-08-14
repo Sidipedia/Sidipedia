@@ -4,15 +4,15 @@
 
 ## Hello there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
 
-I am Siddharth, an ex-PSU banker turned data analyst. I am fascinated by the world of data and want to leverage it to make the world a better place. I work with SQL, Python, Excel and PowerBI on a daily basis. 
+I am Siddharth, an ex-PSU banker turned product manager. I am fascinated by the world of data and want to leverage it to make the world a better place. I work with SQL, Python, Excel and PowerBI on a daily basis. 
 
-I am currently pursuing a certification course on AI and ML by Analytics Vidhya. I also hold a degree in Social Entrepreneurship. 
+I am currently working on designing an innovative creditworthiness assessment score specifically targeted towards New-to-Credit borrowers. I also hold a degree in Social Entrepreneurship. 
 
 I enjoy learning new things and solving complex problems. 
 
-I am fairly new to GitHub and still learning the ropes. I hope one day this page can act as an inspiration/resource to all the aspiring data analysts/scientists out there. 
+I am fairly new to GitHub and am still learning the ropes. I hope one day this page can act as an inspiration/resource to all the aspiring data analysts/scientists out there. 
 
-Feel free to reach out to me for any prospective project, opportunities or just a plain chat. 
+Feel free to reach out to me for any prospective project or opportunity, or just for a plain chat. 
 
 
 - 🔭 I’m currently working on: My GitHub portfolio 
